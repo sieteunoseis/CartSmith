@@ -4,8 +4,8 @@
       "command": "python3",
       "args": ["REPLACE_WITH_FULL_PATH/kroger_mcp/server.py"],
       "env": {
-        "KROGER_CLIENT_ID": "automatebuildersclaudemcp-bbccprr5",
-        "KROGER_CLIENT_SECRET": "UXCWju79zhhv7Y8vBU3fSUBA6v8GjN1tM-rKBxUV",
+        "KROGER_CLIENT_ID": "",
+        "KROGER_CLIENT_SECRET": "",
         "KROGER_REDIRECT_URI": "http://localhost:8000/callback",
         "KROGER_USER_ZIP_CODE": "97217"
       }
